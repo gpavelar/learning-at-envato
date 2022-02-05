@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+// This can be another way to get the App in an import
+// import App, { App2 } from './App';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
